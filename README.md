@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="left">🧑‍💻 About me:</h3>
-<p align="left">I’m a software engineer and Computer Science student at ITMO University, focused on web development and aspiring to become a full-stack developer. I enjoy building things for the web using FastAPI and React and learning how systems work under the hood. Сurrently learning Rust.</p>
+<p align="left">I’m a software engineer and Computer Science student at ITMO University, focused on web development and aspiring to become a full-stack developer. I enjoy building things for the web using FastAPI and React and learning how systems work under the hood.</p>
 
 ###
 
